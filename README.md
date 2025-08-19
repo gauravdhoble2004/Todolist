@@ -40,16 +40,16 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/gauravdhoble2004/todo-app.git
+https://github.com/gauravdhoble2004/Todolist.git
 
 # Navigate to project directory
-cd todo-app
+cd Todolist
 
 # Install dependencies
 npm install
 
 # Start the development server
-npm start
+npm run dev
 ```
 📂 Project Structure
 
